@@ -1,6 +1,6 @@
-[submodule "cdesktopenv-git-aur"]
-	path = cdesktopenv-git
-	url = git@github.com:strangeautomaton/cdesktopenv-git
 [submodule "ttf-ms-win10"]
 	path = ttf-ms-win10
 	url = git@github.com:strangeautomaton/ttf-ms-win10
+[submodule "cdesktopenv-git"]
+	path = cdesktopenv-git
+	url = git@github.com:strangeautomaton/cdesktopenv-git.git
